@@ -23,6 +23,7 @@ dependencies:
   flutter_inappwebview: ^6.1.5 #다음주소검색 화면 UI 구성
   intl: ^0.20.2 #data format활용
 
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
